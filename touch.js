@@ -15,4 +15,4 @@
 
 //This file is obsoleted and kept only for compatibility. The working file was renamed to touch.user.js. Thanks to MattiasBuelens's suggestion.
 //If you are using this, turn to https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js instead
-(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js';})();
+(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/WhatAboutGaming/Twitch-Touches-Pokemon-2/master/touch.user.js';})();
