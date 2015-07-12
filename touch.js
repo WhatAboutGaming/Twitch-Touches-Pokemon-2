@@ -9,7 +9,7 @@
 // this include string credits Twitch Plays Pokemon Chat Filter
 // @include        /^https?://(www|beta)\.twitch\.tv\/twitchplayspokemon.*$/
 
-// @updateURL      https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js
+// @updateURL      https://raw.githubusercontent.com/WhatAboutGaming/Twitch-Touches-Pokemon-2/master/touch.user.js
 // ==/UserScript==
 
 
