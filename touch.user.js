@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name           Twitch touches pokemon
-// @namespace      https://github.com/lostcoaster/twitch-touches-pokemon
+// @namespace      https://github.com/WhatAboutGaming/Twitch-Touches-Pokemon-2
 // @author         lostcoaster
 // @author         MattiasBuelens
 // @author         WhatAboutGaming
 // @version        1.8a
 // @description    A tool adding a touch overlay onto the stream of twitchplayspokemon.
-// @description    Send on clicking works again.
+// @description    Send on clicking works again. Fixed to work with Alpha Sapphire. Now works in Theater Mode.
 // @grant          unsafeWindow
 
 // this include string credits Twitch Plays Pokemon Chat Filter
