@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           Twitch touches pokemon
-// @namespace      https://raw.githubusercontent.com/WhatAboutGaming/Twitch-Touches-Pokemon-2/master/touch.user.js
+// @namespace      https://github.com/WhatAboutGaming/Twitch-Touches-Pokemon-2
+// @author         WhatAboutGaming
 // @author         lostcoaster
 // @author         1.8a
 // @description    A tool adding a touch overlay onto the stream of twitchplayspokemon.
