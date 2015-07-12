@@ -14,10 +14,10 @@
 // @include        /^https?://(www\.)?tinytwit\.ch\/twitchplayspokemon.*$/
 // @include        /^https?://(www\.)?twitchplayspokemon\.net\/?$/
 
-// @updateURL      https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js
+// @updateURL      https://raw.githubusercontent.com/WhatAboutGaming/Twitch-Touches-Pokemon-2/master/touch.user.js
 // ==/UserScript==
 
-// for bookmarklet users : javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js';})();
+// for bookmarklet users : javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.githubusercontent.com/WhatAboutGaming/Twitch-Touches-Pokemon-2/master/touch.user.js';})();
 
 /* jshint
  lastsemic:true,
